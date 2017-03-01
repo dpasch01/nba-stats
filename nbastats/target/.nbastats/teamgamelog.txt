@@ -1,0 +1,3 @@
+TeamID
+Season
+SeasonType

@@ -1,0 +1,4 @@
+Season
+TeamID
+LeagueID
+SeasonType

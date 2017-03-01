@@ -1,0 +1,4 @@
+LeagueID
+PerMode
+Season
+SeasonType

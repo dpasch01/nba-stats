@@ -1,0 +1,7 @@
+LeagueID
+PlayerID
+Season
+SeasonType
+GraphStartSeason
+GraphEndSeason
+GraphStat

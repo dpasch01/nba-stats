@@ -1,0 +1,17 @@
+PerMode
+Season
+SeasonType
+PlayerID
+TeamID
+Outcome
+Location
+Month
+SeasonSegment
+DateFrom
+DateTo
+OpponentTeamID
+VsConference
+VsDivision
+GameSegment
+Period
+LastNGames

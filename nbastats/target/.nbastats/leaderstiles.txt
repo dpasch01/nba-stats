@@ -1,0 +1,7 @@
+Stat
+LeagueID
+Season
+SeasonType
+PlayerOrTeam
+Scope
+Scope

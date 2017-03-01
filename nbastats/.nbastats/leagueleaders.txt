@@ -1,0 +1,6 @@
+LeagueID
+PerMode
+Stat
+Season
+SeasonType
+Scope

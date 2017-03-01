@@ -1,0 +1,6 @@
+GameID
+StartPeriod
+EndPeriod
+StartRange
+EndRange
+RangeType
